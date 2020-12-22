@@ -61,7 +61,7 @@ export default function SignIn() {
           <LockOutlinedIcon />
         </Avatar>
         <Typography component="h1" variant="h5">
-          Sign in (By Saim)
+          Sign in (By Saim and Rayyan)
         </Typography>
         <form className={classes.form} noValidate>
           <TextField
